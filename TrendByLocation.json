@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "Target",
+    "url": "http://twitter.com/search?q=Target",
+    "promoted_content": null,
+    "query": "Target",
+    "tweet_volume": 109048
+   },
+   {
+    "name": "Jayda",
+    "url": "http://twitter.com/search?q=Jayda",
+    "promoted_content": null,
+    "query": "Jayda",
+    "tweet_volume": 29351
+   },
+   {
+    "name": "#FreeCodeFridayContest",
+    "url": "http://twitter.com/search?q=%23FreeCodeFridayContest",
+    "promoted_content": null,
+    "query": "%23FreeCodeFridayContest",
+    "tweet_volume": 11064
+   },
+   {
+    "name": "Guardians of the Galaxy",
+    "url": "http://twitter.com/search?q=%22Guardians+of+the+Galaxy%22",
+    "promoted_content": null,
+    "query": "%22Guardians+of+the+Galaxy%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Teanna",
+    "url": "http://twitter.com/search?q=Teanna",
+    "promoted_content": null,
+    "query": "Teanna",
+    "tweet_volume": null
+   },
+   {
+    "name": "Lil Baby",
+    "url": "http://twitter.com/search?q=%22Lil+Baby%22",
+    "promoted_content": null,
+    "query": "%22Lil+Baby%22",
+    "tweet_volume": 42276
+   },
+   {
+    "name": "#iLoveTMobile",
+    "url": "http://twitter.com/search?q=%23iLoveTMobile",
+    "promoted_content": null,
+    "query": "%23iLoveTMobile",
+    "tweet_volume": 10138
+   },
+   {
+    "name": "#Sweepstakes",
+    "url": "http://twitter.com/search?q=%23Sweepstakes",
+    "promoted_content": null,
+    "query": "%23Sweepstakes",
+    "tweet_volume": 46800
+   },
+   {
+    "name": "Ron Johnson",
+    "url": "http://twitter.com/search?q=%22Ron+Johnson%22",
+    "promoted_content": null,
+    "query": "%22Ron+Johnson%22",
+    "tweet_volume": 113603
+   },
+   {
+    "name": "#TheMandalorian",
+    "url": "http://twitter.com/search?q=%23TheMandalorian",
+    "promoted_content": null,
+    "query": "%23TheMandalorian",
+    "tweet_volume": 247800
+   },
+   {
+    "name": "#TRANSMASCARTISTS",
+    "url": "http://twitter.com/search?q=%23TRANSMASCARTISTS",
+    "promoted_content": null,
+    "query": "%23TRANSMASCARTISTS",
+    "tweet_volume": 12642
+   },
+   {
+    "name": "Star Wars",
+    "url": "http://twitter.com/search?q=%22Star+Wars%22",
+    "promoted_content": null,
+    "query": "%22Star+Wars%22",
+    "tweet_volume": 117707
+   },
+   {
+    "name": "Jerry Rice",
+    "url": "http://twitter.com/search?q=%22Jerry+Rice%22",
+    "promoted_content": null,
+    "query": "%22Jerry+Rice%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "John Kelly",
+    "url": "http://twitter.com/search?q=%22John+Kelly%22",
+    "promoted_content": null,
+    "query": "%22John+Kelly%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Groot",
+    "url": "http://twitter.com/search?q=Groot",
+    "promoted_content": null,
+    "query": "Groot",
+    "tweet_volume": null
+   },
+   {
+    "name": "Happy Holidays",
+    "url": "http://twitter.com/search?q=%22Happy+Holidays%22",
+    "promoted_content": null,
+    "query": "%22Happy+Holidays%22",
+    "tweet_volume": 118107
+   },
+   {
+    "name": "TD Garden",
+    "url": "http://twitter.com/search?q=%22TD+Garden%22",
+    "promoted_content": null,
+    "query": "%22TD+Garden%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Space Cadets",
+    "url": "http://twitter.com/search?q=%22Space+Cadets%22",
+    "promoted_content": null,
+    "query": "%22Space+Cadets%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Moss",
+    "url": "http://twitter.com/search?q=Moss",
+    "promoted_content": null,
+    "query": "Moss",
+    "tweet_volume": 12939
+   },
+   {
+    "name": "Cupcakke",
+    "url": "http://twitter.com/search?q=Cupcakke",
+    "promoted_content": null,
+    "query": "Cupcakke",
+    "tweet_volume": 31431
+   },
+   {
+    "name": "Jim Jordan",
+    "url": "http://twitter.com/search?q=%22Jim+Jordan%22",
+    "promoted_content": null,
+    "query": "%22Jim+Jordan%22",
+    "tweet_volume": 121577
+   },
+   {
+    "name": "Michael Thomas",
+    "url": "http://twitter.com/search?q=%22Michael+Thomas%22",
+    "promoted_content": null,
+    "query": "%22Michael+Thomas%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Tom Hanneman",
+    "url": "http://twitter.com/search?q=%22Tom+Hanneman%22",
+    "promoted_content": null,
+    "query": "%22Tom+Hanneman%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Jared Kushner",
+    "url": "http://twitter.com/search?q=%22Jared+Kushner%22",
+    "promoted_content": null,
+    "query": "%22Jared+Kushner%22",
+    "tweet_volume": 92576
+   },
+   {
+    "name": "Heritage",
+    "url": "http://twitter.com/search?q=Heritage",
+    "promoted_content": null,
+    "query": "Heritage",
+    "tweet_volume": 26727
+   },
+   {
+    "name": "Coast Guard",
+    "url": "http://twitter.com/search?q=%22Coast+Guard%22",
+    "promoted_content": null,
+    "query": "%22Coast+Guard%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Jerry West",
+    "url": "http://twitter.com/search?q=%22Jerry+West%22",
+    "promoted_content": null,
+    "query": "%22Jerry+West%22",
+    "tweet_volume": 14053
+   },
+   {
+    "name": "Space Professionals",
+    "url": "http://twitter.com/search?q=%22Space+Professionals%22",
+    "promoted_content": null,
+    "query": "%22Space+Professionals%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "But Hunter Biden",
+    "url": "http://twitter.com/search?q=%22But+Hunter+Biden%22",
+    "promoted_content": null,
+    "query": "%22But+Hunter+Biden%22",
+    "tweet_volume": 15171
+   },
+   {
+    "name": "Spacemen",
+    "url": "http://twitter.com/search?q=Spacemen",
+    "promoted_content": null,
+    "query": "Spacemen",
+    "tweet_volume": null
+   },
+   {
+    "name": "Dortmund",
+    "url": "http://twitter.com/search?q=Dortmund",
+    "promoted_content": null,
+    "query": "Dortmund",
+    "tweet_volume": 17046
+   },
+   {
+    "name": "Winter Break",
+    "url": "http://twitter.com/search?q=%22Winter+Break%22",
+    "promoted_content": null,
+    "query": "%22Winter+Break%22",
+    "tweet_volume": 25092
+   },
+   {
+    "name": "Luke",
+    "url": "http://twitter.com/search?q=Luke",
+    "promoted_content": null,
+    "query": "Luke",
+    "tweet_volume": 100205
+   },
+   {
+    "name": "naya",
+    "url": "http://twitter.com/search?q=naya",
+    "promoted_content": null,
+    "query": "naya",
+    "tweet_volume": 19064
+   },
+   {
+    "name": "Starfleet",
+    "url": "http://twitter.com/search?q=Starfleet",
+    "promoted_content": null,
+    "query": "Starfleet",
+    "tweet_volume": null
+   },
+   {
+    "name": "Suki",
+    "url": "http://twitter.com/search?q=Suki",
+    "promoted_content": null,
+    "query": "Suki",
+    "tweet_volume": 43135
+   },
+   {
+    "name": "Pentagon",
+    "url": "http://twitter.com/search?q=Pentagon",
+    "promoted_content": null,
+    "query": "Pentagon",
+    "tweet_volume": 254431
+   },
+   {
+    "name": "Sark",
+    "url": "http://twitter.com/search?q=Sark",
+    "promoted_content": null,
+    "query": "Sark",
+    "tweet_volume": null
+   },
+   {
+    "name": "heather morris",
+    "url": "http://twitter.com/search?q=%22heather+morris%22",
+    "promoted_content": null,
+    "query": "%22heather+morris%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Space Marines",
+    "url": "http://twitter.com/search?q=%22Space+Marines%22",
+    "promoted_content": null,
+    "query": "%22Space+Marines%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Big Hunt",
+    "url": "http://twitter.com/search?q=%22Big+Hunt%22",
+    "promoted_content": null,
+    "query": "%22Big+Hunt%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Brian Kelly",
+    "url": "http://twitter.com/search?q=%22Brian+Kelly%22",
+    "promoted_content": null,
+    "query": "%22Brian+Kelly%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Handmaid's Tale",
+    "url": "http://twitter.com/search?q=%22Handmaid%27s+Tale%22",
+    "promoted_content": null,
+    "query": "%22Handmaid%27s+Tale%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Sherry",
+    "url": "http://twitter.com/search?q=Sherry",
+    "promoted_content": null,
+    "query": "Sherry",
+    "tweet_volume": 11268
+   },
+   {
+    "name": "NDAs",
+    "url": "http://twitter.com/search?q=NDAs",
+    "promoted_content": null,
+    "query": "NDAs",
+    "tweet_volume": null
+   },
+   {
+    "name": "Haskins",
+    "url": "http://twitter.com/search?q=Haskins",
+    "promoted_content": null,
+    "query": "Haskins",
+    "tweet_volume": null
+   },
+   {
+    "name": "Lara Trump",
+    "url": "http://twitter.com/search?q=%22Lara+Trump%22",
+    "promoted_content": null,
+    "query": "%22Lara+Trump%22",
+    "tweet_volume": 51578
+   },
+   {
+    "name": "Beechwood",
+    "url": "http://twitter.com/search?q=Beechwood",
+    "promoted_content": null,
+    "query": "Beechwood",
+    "tweet_volume": null
+   },
+   {
+    "name": "Grogu",
+    "url": "http://twitter.com/search?q=Grogu",
+    "promoted_content": null,
+    "query": "Grogu",
+    "tweet_volume": 53070
+   },
+   {
+    "name": "Brees",
+    "url": "http://twitter.com/search?q=Brees",
+    "promoted_content": null,
+    "query": "Brees",
+    "tweet_volume": 15191
+   }
+  ],
+  "as_of": "2020-12-18T22:55:49Z",
+  "created_at": "2020-12-18T07:53:20Z",
+  "locations": [
+   {
+    "name": "Phoenix",
+    "woeid": 2471390
+   }
+  ]
+ }
+]
